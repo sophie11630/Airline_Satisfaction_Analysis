@@ -1,6 +1,6 @@
 ### Airline Passenger Satisfaction Score Classification
 
-##### <ins>Goal of this project:¶</ins>
+##### <ins>Goal of this Project:¶</ins>
 Customer satisfaction analysis is a crucial step for businesses to reflect and improve their service quality. In this project, we are going to study the airline passenger satisfaction based on features related to the passengers, airline services, and other features. We will use different machine learning models to train our dataset, then evaluate the performances on testing data using confusion matrix. We could also look at factors that will impact customers' satisfaction ratings and provided some suggestions to airline businesses.
 
 ##### <ins>About this Dataset:</ins>
